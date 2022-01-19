@@ -65,7 +65,7 @@ document
 //2.환전이 되서
 //3.환전된값이 보인다.
 
-
+ 
 
 function convert(type){
     //1.환전
